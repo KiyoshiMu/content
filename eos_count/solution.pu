@@ -1,0 +1,12 @@
+@startmindmap eos_solution
+skinparam dpi 150
+* EOS Detection
+** Model
+*** Powerful
+****_ <s>normal CNN</s> => faster-RCNN; U-net
+*** Run on laptops
+****_ <s>faster-RCNN; U-net</s> => U-net
+** Labeling
+*** Limited workforce
+****_ simple CNN model assists labeling
+@endmindmap
