@@ -1,0 +1,14 @@
+@startmindmap Edema_Feature_Extraction
+skinparam dpi 200
+* Edema Feature Extraction
+** Segmentation
+*** Batch
+****_ openCV scripts
+*** Retouch
+****_ openCV & Jupyter notebook
+** 3D Reconstruct
+***_ marching_cubes_lewiner (scikit-image) + Poly3DCollection (mpl_toolkits)
+** Features Extraction
+*** No knowledge about standard Radiomic Analysis
+****_ Outsource to package Pyradiomics
+@endmindmap
