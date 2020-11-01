@@ -64,3 +64,4 @@ We randomly sampled 20 well point-labelled images into a test set. By using a di
 
 ## Better Solutions I know now
 
+Check out this [article](https://medium.com/datadriveninvestor/detect-eosinophils-on-gcp-5a437ad61a8d) I published on Medium.
